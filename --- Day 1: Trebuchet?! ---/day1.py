@@ -4,7 +4,7 @@ GOLD_AOC_STAR = True
 
 ############## READ_INPUT ##############
 input = None
-with open("day1/input.txt", 'r') as file:
+with open("--- Day 1: Trebuchet?! ---/input.txt", 'r') as file:
     input = file.read()
 ############## READ_INPUT ##############
 

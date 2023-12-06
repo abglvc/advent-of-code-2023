@@ -4,7 +4,7 @@ GOLD_AOC_STAR = True
 
 ############## READ_INPUT ##############
 input = None
-with open("day3/input.txt", 'r') as file:
+with open("--- Day 3: Gear Ratios ---/input.txt", 'r') as file:
     input = file.read()
 ############## READ_INPUT ##############
 
