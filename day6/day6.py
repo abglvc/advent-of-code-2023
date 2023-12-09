@@ -3,7 +3,7 @@ GOLD_AOC_STAR = True
 ############ GOLD_AOC_STAR #############
 
 ############## READ_INPUT ##############
-with open("--- Day 6: Wait For It ---/input.txt", 'r') as file:
+with open("day6/input.txt", 'r') as file:
     input = file.read()
 ############## READ_INPUT ##############
 

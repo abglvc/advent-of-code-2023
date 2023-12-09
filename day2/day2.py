@@ -3,7 +3,7 @@ GOLD_AOC_STAR = True
 ############ GOLD_AOC_STAR #############
 
 ############## READ_INPUT ##############
-with open("--- Day 2: Cube Conundrum ---/input.txt", 'r') as file:
+with open("day2/input.txt", 'r') as file:
     input = file.read()
 ############## READ_INPUT ##############
 

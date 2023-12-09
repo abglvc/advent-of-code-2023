@@ -3,7 +3,7 @@ GOLD_AOC_STAR = True
 ############ GOLD_AOC_STAR #############
 
 ############## READ_INPUT ##############
-with open("--- Day 5: If You Give A Seed A Fertilizer ---/input.txt", 'r') as file:
+with open("day5/input.txt", 'r') as file:
     input = file.read()
 ############## READ_INPUT ##############
 
